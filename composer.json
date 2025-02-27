@@ -1,5 +1,5 @@
 {
-    "name": "macrineeu/via-cep-service",
+    "name": "macrineeu/via-cep",
     "description": "package for testing",
     "type": "library",
     "autoload": {
