@@ -1,6 +1,7 @@
 {
     "name": "macrineeu/via-cep",
     "description": "package for testing",
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
