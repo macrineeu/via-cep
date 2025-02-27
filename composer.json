@@ -1,0 +1,19 @@
+{
+    "name": "macrineeu/via-cep-service",
+    "description": "package for testing",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Macrineeu\\ViaCepService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Macrineu",
+            "email": "macrineu.developer@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
